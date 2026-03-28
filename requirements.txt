@@ -1,0 +1,11 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+requests
+gspread>=6.0.0
+google-auth-oauthlib  # ✅ Moderno y seguro
+plotly>=5.15.0
+xlsxwriter
+pytz
+oauth2client
+numpy>=1.24.0
+

@@ -1,0 +1,34 @@
+# Secrets and credentials - never commit these
+.env
+*.json
+!package.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data exports
+*.xlsx
+*.csv
