@@ -1,5 +1,7 @@
 # Operations Dashboard — Monday.com + Google Sheets + Streamlit
 
+Disclaimer: This repository is the public version of an original repository that contains private information.
+
 A real-time operations dashboard that syncs task data from **Monday.com** to **Google Sheets** via a scheduled ETL pipeline, then visualises it through a **Streamlit** web application.
 
 Built for production use in a manufacturing/engineering environment to track multi-project task status, team workload, and time-tracking metrics.
